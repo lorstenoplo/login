@@ -1,0 +1,53 @@
+.container{
+    color: white;
+    position: absolute;
+    top: 35%;
+    left: 5%;
+}
+
+.container h1{
+    display: inline-block;
+    font-family: 'Heebo', sans-serif;
+    font-size: 60px;
+    border-bottom: 2px solid rgb(8, 106, 218);
+    margin-bottom: 60px;
+    padding: 5px 0;
+}
+
+.box{
+    color: white;
+    margin: 80px 0;
+    width: 150%;
+    border-bottom: 2px solid rgb(8, 45, 88);
+}
+
+.box input{
+    font-family: 'Dosis', sans-serif;
+    background: none;
+    margin: 5px 0px;
+    width: 75%;
+    padding: 5px 20px;
+   font-size: 50px;
+    border: none;
+    outline: none;
+    color: white;
+}
+.box:hover{
+    border-bottom: 2px solid rgb(79, 143, 216);;
+}
+.box i{
+    height: 50%;
+}
+.btn{
+    font-family: 'Dosis', sans-serif;
+    color: white;
+    padding: 15px 15px;
+    font-size: 50px;
+    outline: none;
+    cursor: pointer;
+    width: 70%;
+    margin: 20px 0;
+    border-radius: 10px;
+    border: 2px solid rgb(8, 106, 218);;
+    background: none;
+}
